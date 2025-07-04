@@ -1,11 +1,10 @@
 import React from "react";
-import { type Employee, type SystemStatus } from "@/types/employee";
+import { type SystemStatus } from "@/types/employee";
 
 interface StatusBadgeProps {
   system: SystemStatus["system"];
   status: boolean;
   isUpdating: boolean;
-  employeeObj: Employee;
   onClick?: () => void;
 }
 
@@ -13,7 +12,6 @@ export function StatusBadge({
   system,
   status,
   isUpdating,
-  employeeObj,
   onClick,
 }: StatusBadgeProps) {
   return (

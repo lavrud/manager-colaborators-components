@@ -465,7 +465,6 @@ export function EmployeeStatusTable() {
                             system={system.system}
                             status={system.status}
                             isUpdating={isUpdating}
-                            employeeObj={employee}
                             onClick={() => handleBadgeClick(employee, { system: system.system, status: system.status, originalId: '' }, !system.status)}
                           />
                         );
