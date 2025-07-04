@@ -1,0 +1,26 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 119,
+            "name": "Debora Christina Santos",
+            "email": "debora.santos@santacasavitoria.org",
+            "login": "dcsantos",
+            "position": "Coordenador",
+            "department": "Contabilidade",
+            "systems": [
+                {
+                    "system": "MV",
+                    "status": "N"
+                },
+                {
+                    "system": "AD",
+                    "status": "S"
+                }
+            ],
+            "lastUpdated": "2025-04-14T02:32:32.5059775"
+        }
+    ],
+    "message": "Request completed successfully.",
+    "statusCode": 200
+}

@@ -1,0 +1,14 @@
+{
+    "SELECT * FROM DBATI.FLUXO_AD": [
+        {
+            "ID": 173,
+            "NAME": "Sarah Palmeira",
+            "EMAIL": "spalmeira@scmv.corp",
+            "LOGIN": "spalmeira",
+            "POSITION": "ANESTESISTA",
+            "DEPARTMENT": "CENTRO CIRURGICO",
+            "IS_ENABLED": "S",
+            "LAST_UPDATED": "2025-05-22T15:25:01.057Z"
+        }
+    ]
+}
